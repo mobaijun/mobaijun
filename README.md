@@ -21,3 +21,14 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+
+### My other home pages
+
+----
+
+* Blog: [👉👉👉👉👉](https://www.mobaijun.com)
+* Gitee: [👉👉👉👉👉](https://gitee.com/wang_lianjie)
+* typora:[👉👉👉👉👉](https://github.com/mobaijun/typora-Eye-protection)
+
+-----
+
