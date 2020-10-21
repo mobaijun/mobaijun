@@ -21,7 +21,7 @@
 ----
 
 * Blog: [👉👉👉👉👉](https://www.mobaijun.com)
-* Gitee: [👉👉👉👉👉](https://gitee.com/wang_lianjie)
+* Gitee: [👉👉👉👉👉](https://gitee.com/mobaijun)
 * typora:[👉👉👉👉👉](https://github.com/mobaijun/typora-Eye-protection)
 
 -----
