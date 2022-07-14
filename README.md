@@ -1,4 +1,4 @@
-### Hi there, I am a developer 👋
+### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)/[![Gitee](https://img.shields.io/badge/%F0%9F%91%89-gitee-brightgreen)](https://gitee.com/mobaijun)
 
 ```
                                                                                                                   
@@ -23,13 +23,6 @@
     <img src="https://raw.githubusercontent.com/mobaijun/mobaijun/9468506de3668a66a8793378f6f9822357b5ba5e/assets/github-contribution-grid-snake.svg">
   </a>
 </h1>
-
----
-
-### 📢 My other home pages
-
-* ![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green): [👉👉👉👉👉](https://www.mobaijun.com)
-* ![Gitee](https://img.shields.io/badge/%F0%9F%91%89-gitee-brightgreen): [👉👉👉👉👉](https://gitee.com/mobaijun) 
 
 ---
 
