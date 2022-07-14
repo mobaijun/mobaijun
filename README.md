@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://www.mobaijun.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to Mobai's homepage!&center=true&size=27">
+  </a>
+</h1>
+
 ### Hi there, I am a developer 👋
 
 ```
@@ -27,7 +33,7 @@
 ----
 
 * ![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green): [👉👉👉👉👉](https://www.mobaijun.com)
-* ![Gitee](https://img.shields.io/badge/%F0%9F%91%89-gitee-brightgreen): [👉👉👉👉👉](https://gitee.com/mobaijun)
+* ![Gitee](https://img.shields.io/badge/%F0%9F%91%89-gitee-brightgreen): [👉👉👉👉👉](https://gitee.com/mobaijun) 
 
 ---
 
@@ -37,4 +43,15 @@
 
 ![Nginx](https://img.shields.io/badge/-Nginx-blasck?style=plastic&logo=nginx)-![linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)-![ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=fla)-![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)-![idea](https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat)-![apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)-![Oracle](https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=flat)-![redis](https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat)-![Docker](https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker)
 
+---
+
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobaijun&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+---
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=xcode" />
+</div>
 ---
