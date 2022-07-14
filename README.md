@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://www.mobaijun.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome to Mobai's homepage!&center=true&size=27">
-  </a>
-</h1>
-
 ### Hi there, I am a developer 👋
 
 ```
@@ -24,13 +18,15 @@
 
 ---
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/mobaijun/mobaijun/9468506de3668a66a8793378f6f9822357b5ba5e/assets/github-contribution-grid-snake.svg)](https://github.com/mobaijun)
+<h1 align="center">
+  <a href="https://www.mobaijun.com/">
+    <img src="https://raw.githubusercontent.com/mobaijun/mobaijun/9468506de3668a66a8793378f6f9822357b5ba5e/assets/github-contribution-grid-snake.svg">
+  </a>
+</h1>
 
 ---
 
 ### 📢 My other home pages
-
-----
 
 * ![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green): [👉👉👉👉👉](https://www.mobaijun.com)
 * ![Gitee](https://img.shields.io/badge/%F0%9F%91%89-gitee-brightgreen): [👉👉👉👉👉](https://gitee.com/mobaijun) 
@@ -39,16 +35,33 @@
 
 ### 🚀 I use daily:
 
-![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)-![](https://img.shields.io/badge/java-spring-blue)-![](https://img.shields.io/badge/java-idea-brightgreen)-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)-![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)-![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=MySQL)-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-
-![Nginx](https://img.shields.io/badge/-Nginx-blasck?style=plastic&logo=nginx)-![linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)-![ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=fla)-![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)-![idea](https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat)-![apache](https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat)-![Oracle](https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=flat)-![redis](https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat)-![Docker](https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker)
-
----
-
 <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobaijun&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img src="https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java"/>
+    <img src="https://img.shields.io/badge/java-spring-blue"/>
+    <img src="https://img.shields.io/badge/java-idea-brightgreen"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"/>
+    <img src="https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab"/>
+    <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git"/>
+    <img src="https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js"/>
+    <img src="https://img.shields.io/badge/-MySQL-black?style=plastic&logo=MySQL"/>
+    <img src="https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell"/>
+    <img src="https://img.shields.io/badge/-Nginx-blasck?style=plastic&logo=nginx"/>
+    <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat"/>
+    <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"/>
+    <img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat"/>
+    <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat"/>
+    <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=flat"/>
+    <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat"/>
+    <img src="https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker"/>
 </div>
 
+<h1 align="center">
+  <a href="https://www.mobaijun.com/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobaijun&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+  </a>
+</h1>
 ---
 
 <div align="center">
