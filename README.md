@@ -24,9 +24,6 @@
     <img src="https://raw.githubusercontent.com/mobaijun/mobaijun/9468506de3668a66a8793378f6f9822357b5ba5e/assets/github-contribution-grid-snake.svg">
   </a>
 </h1>
-
----
-
 ### 🚀 I use daily:
 
 <div align="center">
@@ -56,15 +53,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobaijun&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
   </a>
 </h1>
-
-
----
-
-
-
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=xcode" />
 </div>
-
-
----
