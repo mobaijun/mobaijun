@@ -24,7 +24,11 @@
     <img src="https://raw.githubusercontent.com/mobaijun/mobaijun/9468506de3668a66a8793378f6f9822357b5ba5e/assets/github-contribution-grid-snake.svg">
   </a>
 </h1>
+
+
 ### 🚀 I use daily:
+
+---
 
 <div align="center">
     <img src="https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java"/>
