@@ -1,4 +1,4 @@
-### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)/[![Gitee](https://img.shields.io/badge/%F0%9F%91%89-gitee-brightgreen)](https://gitee.com/mobaijun)
+### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
 
 
 ```
