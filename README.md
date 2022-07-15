@@ -51,12 +51,14 @@
     <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat"/>
     <img src="https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker"/>
 </div>
+
 <h1 align="center">
 	<a href="https://www.mobaijun.com/">
 		<img src="https://github-readme-stats.vercel.app/api?username=mobaijun&show_icons=true&theme=tokyonight&hide_title=true">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobaijun&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
 	</a>
 </h1>
+
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=xcode" />
