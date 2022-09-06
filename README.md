@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat"/>
     <img src="https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker"/>
     <img src="https://visitor-badge.glitch.me/badge?page_id=mobaijun&left_color=red&right_color=green&left_text=Hello"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobaijun"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mobaijun&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j"/>
 </div>
 
 <div align="center">
