@@ -1,4 +1,3 @@
-
 ```
                                                                                                                   
                                                                                                                   
@@ -15,17 +14,19 @@
                                                                                               
 ```
 
+<h1 align="center"> 
+    <a href="https://www.mobaijun.com"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);一念开明，反身而诚!&center=true">
+    </a>
+</h1>
+
 ### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
 
 ---
 
-<h1 align="center">
-  <a href="https://www.mobaijun.com/">
-    <img src="https://raw.githubusercontent.com/mobaijun/mobaijun/9468506de3668a66a8793378f6f9822357b5ba5e/assets/github-contribution-grid-snake.svg">
-  </a>
-</h1>
-
-
+<div align="center">
+	<img src="https://raw.githubusercontent.com/mobaijun/mobaijun/main/assets/github-contribution-grid-snake.svg" />
+</div>
 ### 🚀 I use daily:
 
 ---
@@ -50,8 +51,9 @@
     <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=flat"/>
     <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat"/>
     <img src="https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=mobaijun&left_color=red&right_color=green&left_text=Hello"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobaijun"/>
 </div>
-
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=xcode" />
