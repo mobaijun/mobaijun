@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,4 +25,4 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
-          message: ':art: generate contribution snake'      
+          message: ':sparkles: generate contribution snake'
