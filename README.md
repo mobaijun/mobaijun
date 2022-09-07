@@ -1,4 +1,4 @@
-```
+```bash
                                                                                                                   
                                                                                                                   
               0000000        0000000        000000             000       0000000000      000         000          
@@ -15,10 +15,9 @@
 ```
 
 <h1 align="center"> 
-    <a href="https://www.mobaijun.com"> 
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=System.out.println(%22Hi! + Friend!%22);%E4%B8%80%E5%BF%B5%E5%BC%80%E6%98%8E%EF%BC%8C%E5%8F%8D%E8%BA%AB%E8%80%8C%E8%AF%9A!">
-    </a>
 </h1>
+
 
 ### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
 
@@ -53,9 +52,8 @@
     <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat"/>
     <img src="https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker"/>
     <img src="https://visitor-badge.glitch.me/badge?page_id=mobaijun&left_color=red&right_color=green&left_text=Hello"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mobaijun&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mobaijun&theme=github-dark-blue&locale=zh&date_format=%5BY.%5Dn.j"/>
 </div>
-
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=chartreuse-dark"/>
 </div>
