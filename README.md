@@ -16,7 +16,7 @@
 
 <h1 align="center"> 
     <a href="https://www.mobaijun.com"> 
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello%2C%20World!%22);一念开明，反身而诚!&center=true&color=F7F3F1">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=System.out.println(%22Hi! + Friend!%22);%E4%B8%80%E5%BF%B5%E5%BC%80%E6%98%8E%EF%BC%8C%E5%8F%8D%E8%BA%AB%E8%80%8C%E8%AF%9A!">
     </a>
 </h1>
 
