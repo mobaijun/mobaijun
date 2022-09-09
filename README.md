@@ -14,9 +14,9 @@
                                                                                               
 ```
 
-<h1 align="center"> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=System.out.println(%22Hi! + Friend!%22);%E4%B8%80%E5%BF%B5%E5%BC%80%E6%98%8E%EF%BC%8C%E5%8F%8D%E8%BA%AB%E8%80%8C%E8%AF%9A!">
-</h1>
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=B32DFF00&center=true&vCenter=true&width=435&height=70&lines=%E4%B8%96%E4%BA%8B%E6%B4%9E%E6%98%8E%E7%9A%86%E5%AD%A6%E9%97%AE%2C%E4%BA%BA%E6%83%85%E7%BB%83%E8%BE%BE%E5%8D%B3%E6%96%87%E7%AB%A0%EF%BC%81;System.out.println%EF%BC%88Hi! Friend！%EF%BC%89" alt="Typing SVG"/>
+</div>
 
 
 ### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
