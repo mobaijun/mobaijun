@@ -58,5 +58,3 @@
 </div>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
----
