@@ -56,5 +56,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mobaijun&theme=github-dark-blue&locale=zh&date_format=%5BY.%5Dn.j"/>
     <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=chartreuse-dark"/>
 </div>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
