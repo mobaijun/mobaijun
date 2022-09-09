@@ -20,7 +20,6 @@
   </a>
 </h1>
 
-
 ### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
 
 ---
@@ -28,6 +27,7 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/mobaijun/mobaijun/main/assets/github-contribution-grid-snake.svg" />
 </div>
+
 ### 🚀 I use daily:
 
 ---
