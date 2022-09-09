@@ -14,9 +14,11 @@
                                                                                               
 ```
 
-<div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=B32DFF00&center=true&vCenter=true&width=435&height=70&lines=%E4%B8%96%E4%BA%8B%E6%B4%9E%E6%98%8E%E7%9A%86%E5%AD%A6%E9%97%AE%2C%E4%BA%BA%E6%83%85%E7%BB%83%E8%BE%BE%E5%8D%B3%E6%96%87%E7%AB%A0%EF%BC%81;System.out.println%EF%BC%88Hi! Friend！%EF%BC%89"/>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+Friend!+👋;Nice+to+meet+you!&center=true&size=30&color=F7F3EF">
+  </a>
+</h1>
 
 
 ### 👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
@@ -26,7 +28,6 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/mobaijun/mobaijun/main/assets/github-contribution-grid-snake.svg" />
 </div>
-
 ### 🚀 I use daily:
 
 ---
@@ -52,8 +53,7 @@
     <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat"/>
     <img src="https://img.shields.io/badge/-Docker-blasck?style=plastic&logo=Docker"/>
     <img src="https://visitor-badge.glitch.me/badge?page_id=mobaijun&left_color=red&right_color=green&left_text=Hello"/>
+    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mobaijun&theme=github-dark-blue&locale=zh&date_format=%5BY.%5Dn.j"/>
-</div>
-<div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=mobaijun&theme=chartreuse-dark"/>
 </div>
