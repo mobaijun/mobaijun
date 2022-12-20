@@ -19,14 +19,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+Friend!+👋;Nice+to+meet+you!&center=true&size=30&color=F7F3EF">
   </a>
 </h1>
-###  👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
+###👋 Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
 
 ---
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/mobaijun/mobaijun/main/assets/github-contribution-grid-snake.svg" />
 </div>
-###  🚀 I use daily
+###🚀 I use daily
 
 ---
 
@@ -54,7 +54,7 @@
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mobaijun&theme=github-dark-blue&locale=zh&date_format=%5BY.%5Dn.j"/>
 </div>
-###  📕 Latest Blog Posts
+###📕 Latest Blog Posts
 
 ---
 
