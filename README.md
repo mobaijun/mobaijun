@@ -19,7 +19,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+Friend!+👋;Nice+to+meet+you!&center=true&size=30&color=F7F3EF">
   </a>
 </h1>
-👋 **Hi there, I am a developer [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)**
+👋 **Hi there, I am a developer** [![blog](https://img.shields.io/badge/%F0%9F%91%89-blog-green)](https://www.mobaijun.com)
 
 ---
 
