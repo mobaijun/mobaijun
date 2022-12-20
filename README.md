@@ -58,7 +58,11 @@
   <summary><b>📕 Latest Blog Posts</b></summary> 
   <br/>
     <!-- BLOG-POST-LIST:START -->
-		<!-- BLOG-POST-LIST:END -->
+- [【转载】一把梭：REST API 全用 POST](https://www.mobaijun.com/posts/2822068467.html)
+- [【工具系列】为你的项目制作 Shields 徽章](https://www.mobaijun.com/posts/1801508789.html)
+- [【随笔】java.lang.ClassNotFoundException 异常解决及思路](https://www.mobaijun.com/posts/2375159405.html)
+- [【随笔】npm- 更新所有依赖包](https://www.mobaijun.com/posts/3252980443.html)
+<!-- BLOG-POST-LIST:END -->
 </details>
 
 
