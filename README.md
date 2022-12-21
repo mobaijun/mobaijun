@@ -16,9 +16,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+Friend!+👋;Nice+to+meet+you!&center=true&size=30&color=F7F3EF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+Friend!+👋;Nice+to+meet+you!&center=true&size=30&color=F7F3EF"><br>
+    <img src="https://profile-counter.glitch.me/mobaijun/count.svg" alt="访问统计"/>
   </a>
 </h1>
+
 👋 Hi there, I am a developer
 
 ---
