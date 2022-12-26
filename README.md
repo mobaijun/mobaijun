@@ -63,7 +63,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [【转载】一把梭：REST API 全用 POST](https://www.mobaijun.com/posts/2822068467.html)
 - [【工具系列】为你的项目制作 Shields 徽章](https://www.mobaijun.com/posts/1801508789.html)
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
