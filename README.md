@@ -61,8 +61,8 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [【后端】IntelliJ IDEA 快速自动生成 Junit 测试类](https://www.mobaijun.com/posts/3073865067.html)
 - [【随笔】关于 GitHub Actions Error: Process completed with exit code 128. 的解决方案](https://www.mobaijun.com/posts/1959112193.html)
-- [【转载】一把梭：REST API 全用 POST](https://www.mobaijun.com/posts/2822068467.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
