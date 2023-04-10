@@ -61,8 +61,8 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [【后端】IntelliJ IDEA 快速自动生成 Junit 测试类](https://www.mobaijun.com/posts/3073865067.html)
-- [【随笔】关于 GitHub Actions Error: Process completed with exit code 128. 的解决方案](https://www.mobaijun.com/posts/1959112193.html)
+- [【随笔】分享一册 PDF- 劳动法学习实操手册第一版.pdf](https://www.mobaijun.com/posts/1836243909.html)
+- [【随笔】Git 设置代理和取消代理](https://www.mobaijun.com/posts/3938741716.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
