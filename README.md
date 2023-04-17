@@ -61,8 +61,8 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [【随笔】分享一册 PDF- 劳动法学习实操手册第一版.pdf](https://www.mobaijun.com/posts/1836243909.html)
-- [【随笔】Git 设置代理和取消代理](https://www.mobaijun.com/posts/3938741716.html)
+- [【随笔】Markdown 代码块折叠与收起](https://www.mobaijun.com/posts/1282194883.html)
+- [【Linux 系列】定制 SpringBoot 应用程序的 Docker 镜像和数据库配置](https://www.mobaijun.com/posts/2721643765.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
