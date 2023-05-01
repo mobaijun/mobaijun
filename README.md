@@ -71,8 +71,8 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [【随笔】RK987A 键盘说明书（自用）](https://www.mobaijun.com/posts/3130768971.html)
 - [【随笔】Markdown 代码块折叠与收起](https://www.mobaijun.com/posts/1282194883.html)
-- [【Linux 系列】定制 SpringBoot 应用程序的 Docker 镜像和数据库配置](https://www.mobaijun.com/posts/2721643765.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
