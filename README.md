@@ -64,6 +64,6 @@
 ---
 
 <!-- BLOG-POST-LIST:START -->
-- [【随笔】自动化油价推送：GitHub Actions 实战](https://www.mobaijun.com/posts/2512902170.html)
-- [【后端】如何使 Chrome Driver 和 Chrome 浏览器保持版本一致](https://www.mobaijun.com/posts/2959232490.html)
+- [【随笔】自动化油价推送：GitHub Actions实战](https://www.mobaijun.com/posts/2512902170.html)
+- [【后端】如何使Chrome Driver和Chrome浏览器保持版本一致](https://www.mobaijun.com/posts/2959232490.html)
 <!-- BLOG-POST-LIST:END -->
