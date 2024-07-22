@@ -179,9 +179,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【随笔】同时向两个远程 Git 仓库推送代码](https://www.mobaijun.com/posts/812946667.html)
 - [【随笔】自动化油价推送：GitHub Actions 实战](https://www.mobaijun.com/posts/2512902170.html)
 - [【后端】如何使 Chrome Driver 和 Chrome 浏览器保持版本一致](https://www.mobaijun.com/posts/2959232490.html)
-- [【随笔】RK987A 键盘说明书（自用）](https://www.mobaijun.com/posts/3130768971.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
