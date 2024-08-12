@@ -179,9 +179,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【随笔】如何通过覆盖源码类解决 ServiceUtils 类的 NullPointerException 错误](https://www.mobaijun.com/posts/474240225.html)
 - [【随笔】浏览器中的 preview 和 response 的值不一致](https://www.mobaijun.com/posts/461257689.html)
 - [【随笔】同时向两个远程 Git 仓库推送代码](https://www.mobaijun.com/posts/812946667.html)
-- [【随笔】自动化油价推送：GitHub Actions 实战](https://www.mobaijun.com/posts/2512902170.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
