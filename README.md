@@ -179,9 +179,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【随笔】个体户、工商户营业执照年检（年报）网上申报流程！](https://www.mobaijun.com/posts/3756521241.html)
 - [【后端】使用 GitHub Action 自动推送 Docker 镜像](https://www.mobaijun.com/posts/2922523315.html)
 - [【随笔】解决 hexo matery 主题卜算子统计失效异常](https://www.mobaijun.com/posts/2629378943.html)
-- [【随笔】用 Python 轻松提取、合并和压缩 PDF 文件](https://www.mobaijun.com/posts/778845342.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
