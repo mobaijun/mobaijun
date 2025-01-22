@@ -170,8 +170,6 @@
             <img src="https://profile-counter.glitch.me/mobaijun/count.svg" alt="count" width="180" height="40"/>
         </a>
     </p>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mobaijun&locale=zh&date_format=%5BY.%5Dn.j" alt="img"/>
 </div>
 
 ---
