@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【随笔】个体户、工商户营业执照年检（年报）网上申报流程！](https://www.mobaijun.com/posts/3756521241.html)
-- [【后端】使用 GitHub Action 自动推送 Docker 镜像](https://www.mobaijun.com/posts/2922523315.html)
-- [【随笔】解决 hexo matery 主题卜算子统计失效异常](https://www.mobaijun.com/posts/2629378943.html)
+- [【工具】Navicat 17 导出的 connections.ncx 文件密码解密](https://www.mobaijun.com/posts/4206896392.html)
+- [【随笔】Docker 环境下重置 Gitea 管理员密码](https://www.mobaijun.com/posts/3592973200.html)
+- [【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题](https://www.mobaijun.com/posts/1479088608.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
