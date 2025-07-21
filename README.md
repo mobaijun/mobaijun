@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Hexo 博客如何识别并阻止使用广告拦截插件的访问者](https://www.mobaijun.com/posts/3658899822.html)
-- [【工具】Navicat 17 导出的 connections.ncx 文件密码解密](https://www.mobaijun.com/posts/4206896392.html)
-- [【随笔】Docker 环境下重置 Gitea 管理员密码](https://www.mobaijun.com/posts/3592973200.html)
+- [【工具系列】April VarBook：助力开发者的高效命名利器](https://www.mobaijun.com/posts/1031183677.html)
+- [【随笔】Hexo 博客如何识别并阻止使用广告拦截插件的访问者](https://www.mobaijun.com/posts/3658899822.html)
+- [【工具系列】Navicat 17 导出的 connections.ncx 文件密码解密](https://www.mobaijun.com/posts/4206896392.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
