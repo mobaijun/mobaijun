@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【随笔】Jackson 反序列化报错的解决方案](https://www.mobaijun.com/posts/3481608192.html)
+- [【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误](https://www.mobaijun.com/posts/2458057465.html)
 - [【随笔	】🚀 让 docker ps 输出更简洁高效的几种方法](https://www.mobaijun.com/posts/1680028190.html)
-- [【工具系列】April VarBook：助力开发者的高效命名利器](https://www.mobaijun.com/posts/1031183677.html)
-- [【随笔】Hexo 博客如何识别并阻止使用广告拦截插件的访问者](https://www.mobaijun.com/posts/3658899822.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
