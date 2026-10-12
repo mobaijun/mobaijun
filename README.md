@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【随笔】IDEA 多分支并行开发：git worktree 最佳实践](https://www.mobaijun.com/posts/3802519205.html)
-- [【随笔】Jetbrains 全家桶激活](https://www.mobaijun.com/posts/532596790.html)
-- [【随笔】Jackson 反序列化报错的解决方案](https://www.mobaijun.com/posts/3481608192.html)
+- [指标：从设计到落地的完整思路](https://www.mobaijun.com/posts/1030348957)
+- [Spring Cloud Gateway 负载均衡优化：从原理到实战](https://www.mobaijun.com/posts/78363803)
+- [前端构建性能优化：从原理到实战](https://www.mobaijun.com/posts/580381912)
 <!-- BLOG-POST-LIST:END -->
 
 ---
