@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
-- [指标：从设计到落地的完整思路](https://www.mobaijun.com/posts/1030348957)
-- [Spring Cloud Gateway 负载均衡优化：从原理到实战](https://www.mobaijun.com/posts/78363803)
-- [前端构建性能优化：从原理到实战](https://www.mobaijun.com/posts/580381912)
+- [TypeScript 项目结构与代码组织：从混乱到清晰的实战指南](https://www.mobaijun.com/posts/124605866)
+- [链路追踪：从原理到落地的实战笔记](https://www.mobaijun.com/posts/2813847268)
+- [JVM 热点代码优化与日志分析实战](https://www.mobaijun.com/posts/3294204260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
