@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 项目结构与代码组织：从混乱到清晰的实战指南](https://www.mobaijun.com/posts/124605866)
-- [链路追踪：从原理到落地的实战笔记](https://www.mobaijun.com/posts/2813847268)
-- [JVM 热点代码优化与日志分析实战](https://www.mobaijun.com/posts/3294204260)
+- [数据库连接池参数怎么调：从配置到排查的完整思路](https://www.mobaijun.com/posts/2866296303)
+- [熔断器配置了却不生效：Spring Cloud Gateway 熔断降级实录](https://www.mobaijun.com/posts/616053845)
+- [方法不复杂却每次 150ms：用 JFR 找出一直解释执行的热点](https://www.mobaijun.com/posts/145082157)
 <!-- BLOG-POST-LIST:END -->
 
 ---
