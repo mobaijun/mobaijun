@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
-- [数据库连接池参数怎么调：从配置到排查的完整思路](https://www.mobaijun.com/posts/2866296303)
-- [熔断器配置了却不生效：Spring Cloud Gateway 熔断降级实录](https://www.mobaijun.com/posts/616053845)
-- [方法不复杂却每次 150ms：用 JFR 找出一直解释执行的热点](https://www.mobaijun.com/posts/145082157)
+- [页面卡顿不是 JS 慢，是浏览器在反复算布局](https://www.mobaijun.com/posts/3609854244)
+- [JWT 签完改不了权限：无状态登录的续签方案](https://www.mobaijun.com/posts/3402200788)
+- [对象创建太频繁，GC 压力太大？聊聊 sync.Pool 的正确姿势](https://www.mobaijun.com/posts/3732547076)
 <!-- BLOG-POST-LIST:END -->
 
 ---
