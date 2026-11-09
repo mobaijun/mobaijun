@@ -177,9 +177,9 @@
 ### 📕 My recently published personal blog
 
 <!-- BLOG-POST-LIST:START -->
-- [页面卡顿不是 JS 慢，是浏览器在反复算布局](https://www.mobaijun.com/posts/3609854244)
-- [JWT 签完改不了权限：无状态登录的续签方案](https://www.mobaijun.com/posts/3402200788)
-- [对象创建太频繁，GC 压力太大？聊聊 sync.Pool 的正确姿势](https://www.mobaijun.com/posts/3732547076)
+- [LTO 把调试信息吃掉了：Emscripten WASM 的 Source Map 断裂与修复](https://www.mobaijun.com/posts/1679689298)
+- [Vault 动态密钥过期失效，不是因为到期了](https://www.mobaijun.com/posts/527326878)
+- [【Linux系列】U盘格式化报 target is busy 排查记录](https://www.mobaijun.com/posts/4208935173)
 <!-- BLOG-POST-LIST:END -->
 
 ---
